@@ -1,12 +1,11 @@
 ## PIP259
-## NAME - 20CE27   Vatsal Doshi     
-# Github Repository link - https://github.com/20CE027/PIP-II
-# Code Link - https://github.com/20CE034/PIP-II/blob/main/P2_Tuples.py
+## NAME - 20CE027   Vatsal Doshi     
+# Github Repository link - https://github.com/20CE027/20ce027.git
 
 # A ) Write a Python program to create a tuple with different data types.
 
 #create tuple
-tuple = (1729,"DEV","CHARUSAT",'20CE034')
+tuple = (1729,"VATSAL","CHARUSAT",'20CE027')
 #print
 print(tuple)
 
