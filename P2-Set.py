@@ -1,7 +1,6 @@
 ## PIP259
 ## NAME - 20CE027 Vatsal Doshi
-# Github Repository link - https://github.com/20CE027/PIP-II
-#Code Link - https://github.com/20CE034/PIP-II/blob/main/P2_Set.py
+# Github Repository link - https://github.com/20CE027/20ce027.git
 
 
 # A ) Write a Python program to add member(s) in a set and clear a set
